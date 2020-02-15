@@ -6,6 +6,10 @@
   <li>Inverted list method search</li>
   <li>Chain list method search</li>
 </ul>
+<p>Technologies used:</p>
+<ul>
+  <li>C++ (and its libraries)</li>
+</ul>
 <hr>
 <img src="https://raw.githubusercontent.com/teo0098/Database-imitation/master/dbimage.jpg"/>
 <hr>
